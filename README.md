@@ -12,7 +12,7 @@ Instructions to use:
  - Run it by opening a terminal, cd to the downloaded folder and type:  mvn spring-boot:run
  - Open http://localhost:8080 in a web browser.
  - Click on "Connect" to create a WebSocket connection.
- - A HSQL Swing utility will be open automatically. This utility will allow to update data on the USERS table. The execution of UPDATE, DELETE or INSERT on the table will be notified to WebSocket clients.
+ - An HSQL DB Swing utility will be open automatically. This utility will allow easy access/manipulation of the USERS table. The execution of UPDATE, DELETE or INSERT on the table will be notified to WebSocket clients.
  
  Notes: 
   - I have used windows to develop and test the application.
