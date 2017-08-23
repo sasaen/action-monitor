@@ -39,9 +39,5 @@ Instructions to use:
   - Make sure the application works with different browsers and from different machines and OS (Linux/Android). I will complete this over the week.
   - Complete tests and get them running in the same test suite: mvn test
   - Check the JMSTemplate is being built properly to avoid this: http://activemq.apache.org/jmstemplate-gotchas.html
-  
- Final comments:
- - I have not had the oportunity to work professionaly with any of the technologies used in this test, 
-   so ramping up on all of them over the weekend  has meant a huge effort to me but I have to say that it was worthy. I hope you appreciate the effort. 
- - Feedback on the architecture/code style/test are very welcome! 
+
  
